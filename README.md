@@ -13,14 +13,14 @@
 
 iOS 国内用户下载的 [Mixin 畅聊版](https://apps.apple.com/cn/app/mixin-%E5%AF%86%E4%BF%A1%E7%95%85%E8%81%8A%E7%89%88/id1457938019) 需要添加小钱包机器人（ID: *7000101425*）才能使用数字资产收发存储功能。
 
-![wallet.png](../li-long-bin/images/wallet.png)
+![wallet.png](/images/wallet.png)
 
 
 #### 2. 搜索践行群机器人
 
 在顶部的搜索框搜索定投践行群机器人（ID:7000102069），按以下步骤加入
 
-![加入践行群.png](../li-long-bin/images/join.png)
+![加入践行群.png](/images/join.png)
 
 最后的步骤需要输入邀请码，如果你觉得有帮助，请使用以下邀请码：
 
@@ -42,7 +42,7 @@ iOS 国内用户下载的 [Mixin 畅聊版](https://apps.apple.com/cn/app/mixin-
 #### 3. 购买BTC
 
 直接在践行群中购买BTC的方式
-![](../li-long-bin/images/buybtc.png)
+![](/images/buybtc.png)
 
 在mixin上购买BTC的其它方法
 
@@ -56,7 +56,7 @@ iOS 国内用户下载的 [Mixin 畅聊版](https://apps.apple.com/cn/app/mixin-
 **注意：如果要加入践行群，一定要学会如何购买虚拟货币，赚钱必备的基础技能！**
 
 **如果有任何不懂，请联系我，一对一服务！**
-![](../li-long-bin/images/callme.png)
+![](/images/callme.png)
 
 
 -----
