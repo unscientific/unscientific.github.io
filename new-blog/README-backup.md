@@ -28,48 +28,48 @@
 1. 注册 `Github` 账号
    点击打开 [Github](https://github.com/) 网页，进行注册，需要验证邮箱，推荐使用微软的 [Outlook](http://outlook.com/) 邮箱，国内邮箱可能会接受不到邮件。
   
-   ![注册 Github](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/sign-git.png)
+   ![注册 Github](../images/../new-blog/images/sign-git.png)
 
 2. 创建新的仓库
    
    步骤1： 点击网页右上角的加号创建新的仓库。
 
-   ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/create-new-1.png)
+   ![](images/create-new-1.png)
 
    步骤2： 如果要创建静态网页博客，仓库名称必须以 `xxx.github.io` 作为格式才能被识别。
 
-   ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/create-new-2.png)
+   ![](images/create-new-2.png)
 
    步骤3： 点击右上角的 `settings` 按钮进行设置
 
-   ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/create-new-3.png)
+   ![](images/create-new-3.png)
 
    步骤4： 页面往下拉到 `GitHub Pages`,点击选择一个主题。
   
-   ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/chose-theme.png)
+   ![](images/chose-theme.png)
    
-   ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/theme-1.png)
+   ![](images/theme-1.png)
   
 
    步骤5：切换到这个页面后等待一会，等到 `Commit changes` 变绿后点击。
 
-   ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/update-theme-1.png)
+   ![](images/update-theme-1.png)
   
    步骤6： 返回到 `Settings` 里面，找到 `GitHub Pages` 这一栏查看博客的网页地址，并可以强制博客地址 `https` 加密。
     
-   ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/back-settings.png)
+   ![](images/back-settings.png)
   
    步骤7： 编辑你的博客页面，需要你学习一点 [Mrakdown](https://www.w3cschool.cn/markdownyfsm/markdownyfsm-odm6256r.html) 语法知识，下面简单看一下效果。
     
-   ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/edite-readme-1.png)
+   ![](images/edite-readme-1.png)
   
-   ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/edite-readme-2.png)
+   ![](images/edite-readme-2.png)
   
-   ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/edite-readme-3.png)
+   ![](images/edite-readme-3.png)
   
    步骤8： 最终效果。
     
-  ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/pages-blog.png)
+  ![](images/pages-blog.png)
   
 
 ### 进阶 Docsify 版
@@ -82,59 +82,59 @@
 
   下载 [Anaconda3](https://www.anaconda.com/products/individual) 并安装,进入前面网页后一直下拉到下载页面如下。在下图中可以看到苹果的 `MacOs` 和 `Linux` 下载方式，安装方式就不复述了。
     
-  ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/download-anaconda3.png)
+  ![](images/download-anaconda3.png)
   
   `Win 10` 系统必须要进行如下面几图所示的步骤把 `Anaconda3` 加入系统环境变量，`MacOs` 与 `Linux` 系统可以忽略以下步骤。
     
-  ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/edite-path-1.png)
+  ![](images/edite-path-1.png)
   
-  ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/edite-path-2.png)
+  ![](images/edite-path-2.png)
   
-  ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/edite-path-3.png)
+  ![](images/edite-path-3.png)
   
-  ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/edite-path-4.png)
+  ![](images/edite-path-4.png)
   
   下载安装 `Win10` 的新版终端编辑器，如下图所示
   
-  ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/install-ter-1.png)
+  ![](images/install-ter-1.png)
   
-  ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/install-ter-2.png)
+  ![](images/install-ter-2.png)
   
   运用管理员权限打开新的终端处理器，并输入以下命令 `set-executionpolicy remotesigned`，如下图所示。
   
   
-  ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/open-ter-1.png)
+  ![](images/open-ter-1.png)
   
-  ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/open-ter-2.png)
+  ![](images/open-ter-2.png)
   
 ##### VScode
 
    下载并安装 [VSCode](https://code.visualstudio.com/Download) 编辑器，如下图所示，安装过程不再复述。
 
-  ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/download-vscode.png)
+  ![](images/download-vscode.png)
   
   安装完vscode后可进行的必要设置如下系列图所示。
   
-  ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/vscode-ex-1.png)
+  ![](images/vscode-ex-1.png)
   
-  ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/vscode-ex-2.png)
+  ![](images/vscode-ex-2.png)
   
-  ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/vscode-ex-3.png)
+  ![](images/vscode-ex-3.png)
   
    
   然后你就可以像我一样一边编辑一边预览 Markdown 文件了
 
-  ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/edite-markdown.gif)
+  ![](images/edite-markdown.gif)
 
 ##### GIT
   
   下载并安装 [Git](https://git-scm.com/)，安装过程就不复述了，git默然是自动添加路径的，就不用像前面的 `Anaconda3` 那样添加系统环境变量了。
   
-  ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/download-git.png)
+  ![](images/download-git.png)
   
   配置 `Git` ，后面管理个人仓库会用到。首先打开 C 盘自己的用户文件夹并创建 `.ssh` 文件夹如下图所示。
   
-  ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/create-ssh.png)
+  ![](images/create-ssh.png)
   
   用 `VScode` 编辑器打开刚刚创建的 `.ssh` 文件夹并运行终端，然后在终端中输入以下命令（`#` 和后面的话为注释），如下图所示。
 
@@ -144,19 +144,19 @@
   $ ssh-keygen -t rsa -C “you email@xxx.com"  # 后面默认键入连续三个空格
   ```
   
-  ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/edite-ssh.png)
+  ![](images/edite-ssh.png)
   
   然后需要打开你的网页 `Github` 地址，并执行以下操作。
   
-  ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/add-ssh-1.png)
+  ![](images/add-ssh-1.png)
   
-  ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/add-ssh-2.png)
+  ![](images/add-ssh-2.png)
   
-  ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/add-ssh-3.png)
+  ![](images/add-ssh-3.png)
   
   最后在你的 `VScode` 控制台输入命令`ssh -T git@github.com`,如下图所示。
 
-  ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/add-ssh-4.png)
+  ![](images/add-ssh-4.png)
   
   最后出现 `You've successfully authenticated, but GitHub does not provide shell access.` 代表配置 `Git` 成功。
       
@@ -169,9 +169,9 @@
   npm i docsify-cli -g # 用来编辑并预览网页的主要程序 docsify 
   ```
 
-  ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/coda-update-1.png)
+  ![](images/coda-update-1.png)
    
-  ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/coda-update-2.png)
+  ![](images/coda-update-2.png)
    
 
 
@@ -181,36 +181,36 @@
 
 步骤1： 打开你的前面创建的 `Github text` 项目仓库，并复制克隆地址。
 
-  ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/clone-re.png)
+  ![](images/clone-re.png)
 
 步骤2: 打开你的 `VScode` 并找一个固定的文件夹打开。例如我在 D 盘创建了一个 `text` 文件夹并用 `VScode` 打开，并输入 `git clone + 刚复制的仓库地址` ，如下图所示。
   
-  ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/clone-text-re-1.png)
+  ![](images/clone-text-re-1.png)
    
-  ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/clone-text-re-2.png)
+  ![](images/clone-text-re-2.png)
    
 步骤3： 到我的个人博客 [仓库地址](https://github.com/unscientific/unscientific.github.io)，下载我的个人博客仓库的 `.zip` 文件，并解压 `text` 文件夹中，然后删除 `text-github.io` 中的所有文件，用 `unscientific.github.io-master` 文件夹中的文件复制替换，如下图所示。
 
- ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/down-mbf.png)
+ ![](images/down-mbf.png)
    
- ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/copy-mbf.gif)
+ ![](images/copy-mbf.gif)
    
 
 步骤4： 用 `VScod` 打开文件夹到 `x:\text\text.github.io`  这个位置。如下图所示，然后输入 `docsify serve` ，就可以看到网页在本地的运行状态了。
 
- ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/doc-s-1.png)
+ ![](images/doc-s-1.png)
    
- ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/doc-s-2.png)
+ ![](images/doc-s-2.png)
    
- ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/doc-s-3.png)
+ ![](images/doc-s-3.png)
    
 步骤5： 了解 [Mrakdown](https://www.w3cschool.cn/markdownyfsm/markdownyfsm-odm6256r.html) 语法知识，编辑 `README.MD` 这个文件就可以改变网页最终的显示效果了。
 
- ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/edite-read.png)
+ ![](images/edite-read.png)
    
 步骤6： 调节 `index.html` 文件，改变其中一些参数为自己的,具体可以参考 [Docsify](https://docsify.js.org/#/zh-cn/) 的官方文档。
   
- ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/edite-html.png)
+ ![](images/edite-html.png)
    
 步骤7： 用 `VScode` 的终端把自己改变后的仓库上传，完成后自己的个人静态博客就上线了，先依次执行如下命令。
 ```
@@ -220,9 +220,9 @@ git commit -m "修改博客"   # 这个命令是标记更改说明
 git push   # 上传仓库
 ```
 
- ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/git-push.png)
+ ![](images/git-push.png)
    
- ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/up-end.png)
+ ![](images/up-end.png)
    
 再点击 `text` 仓库的网页地址就可以看到自己网页上线的样子了，到这里就算是完成了一大步了，后面自己博客的内容就靠自己创造了，记得参考 [Docsify](https://docsify.js.org/#/zh-cn/) 的官方文档。
    
@@ -235,21 +235,21 @@ git push   # 上传仓库
 > * [Dynadot](https://www.dynadot.com/zh/)
 
 这里以 [Dynadot](https://www.dynadot.com/zh/) 为例，注册过程就省略了。购买一个域名，如下图所示。
-![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/dy-1.png)
+![](images/dy-1.png)
    
 我已经购买好域名了，以我自己购买的域名为例，进行如下设置。
 
 步骤1： 更改 `text.github.io` 文件夹里面的 `CNAME` 文件，在里面添加自己的域名并保存，执行一次 `git status commit push`，如下图所示。
 
- ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/change-cn.png)
+ ![](images/change-cn.png)
    
 步骤2： 变更自己域名的 DNS 地址，如下几图所示。其中输入 `185.199.110.153` 是定位到 `Github` 。
  
- ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/dns-3.png)
+ ![](images/dns-3.png)
    
 步骤3： 过个一两分钟，域名就应该定位到自己的仓库地址了，可以到自己仓库的 `settings` 中的 `github pages` 中去确认，我的如下所示。再输入自己的域名就可以看到自己的静态博客了。
 
- ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/new-blog/final.png)
+ ![](images/final.png)
    
 
 #### 写在最后
