@@ -13,36 +13,25 @@
 
 iOS 国内用户下载的 [Mixin 畅聊版](https://apps.apple.com/cn/app/mixin-%E5%AF%86%E4%BF%A1%E7%95%85%E8%81%8A%E7%89%88/id1457938019) 需要添加小钱包机器人（ID: *7000101425*）才能使用数字资产收发存储功能。
 
-![wallet.png](../images/wallet.png)
+![wallet.png](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/wallet.png)
 
 
 #### 2. 搜索践行群机器人
 
 在顶部的搜索框搜索定投践行群机器人（ID:7000102069），按以下步骤加入
 
-![加入践行群.png](../images/join.png)
+![加入践行群.png](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/join.png)
 
 最后的步骤需要输入邀请码，如果你觉得有帮助，请使用以下邀请码：
 
->SVVK6PX42P
->
->E07WNLNZHV
->
->ULS4N02TMG
->
->1D1XDE7BGY
->
->C91P5H4309
+><font color=red size=5>PW9WBTG9MR</font>
 >
 >**注意： 践行群一经加入，不能退款，请谨慎考虑！！！**
 >
->**注意： 践行群一经加入，不能退款，请谨慎考虑！！！**
->
->**注意： 践行群一经加入，不能退款，请谨慎考虑！！！**
 #### 3. 购买BTC
 
 直接在践行群中购买BTC的方式
-![](../images/buybtc.png)
+![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/buybtc.png)
 
 在mixin上购买BTC的其它方法
 
@@ -52,14 +41,17 @@ iOS 国内用户下载的 [Mixin 畅聊版](https://apps.apple.com/cn/app/mixin-
 > 可以直接在Mixin中搜索机器人(ID:7000102035)并添加，fox官方[操作指南](https://fox.zendesk.com/hc/zh-cn/articles/360032244032-%E5%A6%82%E4%BD%95%E7%9B%B4%E6%8E%A5%E8%B4%AD%E4%B9%B0-ERC20-%E7%89%88%E6%9C%AC%E7%9A%84-USDT)
 
 **注意：如果要加入践行群，一定要学会如何购买虚拟货币，赚钱必备的基础技能！**
+
 **注意：如果要加入践行群，一定要学会如何购买虚拟货币，赚钱必备的基础技能！**
+
 **注意：如果要加入践行群，一定要学会如何购买虚拟货币，赚钱必备的基础技能！**
 
 **如果有任何不懂，请联系我，一对一服务！**
-![](../images/callme.png)
+![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/callme.png)
 
 
 -----
+
 
 本文档的版权协议为 [CC-BY-NC-ND license](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh)。
 
