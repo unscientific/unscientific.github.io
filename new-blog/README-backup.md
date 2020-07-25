@@ -1,4 +1,4 @@
-### 前言
+### 搭建免费 Docsify + Pages 个人静态博客
 
 首先千万不要产生畏惧心理，以为搭建一个网站是只有程序员才能干的事情，我也是边学边做就摸索清楚了怎么搭建一个静态个人博客。不要害怕提问，因为搜索引擎老师不会不耐烦，也不会羞辱你，[必应](https://cn.bing.com/?mkt=zh-CN) [谷歌](http://google.com/) 我就是这么一步步搜出来的。
 
@@ -261,3 +261,6 @@ git push   # 上传仓库
 欢迎连接我，添加请给我个来意说明或者自我介绍，防止误删.
 
 ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/callme.png)
+
+**这篇文章的 PRESS.one 签名：**
+https://press.one/file/v?s=f1dc4c595914bebd81a5db0e302968b7b5c59c4c85ddafdb1c555a20f807fb7b25a1d7031152b02f0b91f6864d0995444afcce70854fdab463084fa590215e4900&h=bd8e2f4ed8ac7e6bb6196480dd2e39ee73ffd697fbfea8eab416e42e702b2b7f&a=0246351c0a880aab694a1e1e7654a06ca384316e&hash_alg=sha256&f=P1&v=3
