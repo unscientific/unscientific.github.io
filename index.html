@@ -9,6 +9,7 @@
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="/css/vue.css">
   <link rel="manifest" href="/favicon/manifest.json">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
   <meta name="msapplication-TileColor" content="#ffffff">
   <meta name="msapplication-TileImage" content="/favicon/ms-icon-144x144.png">
   <meta name="theme-color" content="#ffffff">
@@ -73,5 +74,28 @@
   <script src="/scripts/docsify.min.js"></script>
   <script src="/scripts/search.min.js"></script>
   <script src="/scripts/ga.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+  <script>
+    const gitalk = new Gitalk({
+      clientID: 'dc86298554d8331aa969',
+      clientSecret: 'c082fc9059f5016f4380a6229b66db28cfdd330a',
+      repo: 'gitalk',
+      owner: 'unscientific',
+      admin: ['unscientific'],
+      title: location.hash.match(/#(.*?)([?]|$)/)[1],
+      id: location.hash.match(/#(.*?)([?]|$)/)[1],
+      // facebook-like distraction free mode
+      distractionFreeMode: false
+    })
+    window.onhashchange = function(event){
+      if(event.newURL.split('?')[0] !== event.oldURL .split('?')[0]) {
+        location.reload()
+      }
+    }
+  </script>
 </body>
 </html>
+
+
+
