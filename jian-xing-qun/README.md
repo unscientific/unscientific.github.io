@@ -50,9 +50,3 @@ iOS 国内用户下载的 [Mixin 畅聊版](https://apps.apple.com/cn/app/mixin-
 ![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/callme.png)
 
 
------
-
-
-本文档的版权协议为 [CC-BY-NC-ND license](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh)。
-
-![CC-BY-NC-ND](images/CC-BY-NC-ND.png?raw=true)
