@@ -23,7 +23,7 @@ iOS 国内用户下载的 [下载 新生大讲堂](https://apps.apple.com/cn/app
 
 在新生大讲堂 App 顶部的搜索框搜索定投践行群机器人（ID:7000103684），按以下步骤加入
 
-![wl.png](https://cdn.jsdelivr.net/gh/unscientific/cdn/write-camp/wl.png)
+![wl.png](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/write-camp/wl.png)
 
 最后的步骤需要输入邀请码，如果你觉得有帮助，请使用以下邀请码：
 
