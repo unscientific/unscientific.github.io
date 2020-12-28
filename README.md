@@ -1,19 +1,34 @@
-### 李龙斌文章作品
+
+### 👋Ice-Dragon-li👋
+#### 个人信息
+- 微信：llb26532
+- Mixin：26532
+- 邮箱📮：li_longbin@foxmail.com
+- 擅长语言：python
+
+
+#### 可以提供服务
+- 心理咨询（持有三级心理咨询师证）
+- 我提供教程的解答
+
+
+
+
+
+
+### 教程
 
 > * [加入BOX定投践行群](jian-xing-qun/README.md)
 > * [搭建免费 Docsify + Pages 个人静态博客](new-blog/README.md)
 > * [利用免费 CDN 加速你的网页](speedup-web/speedup-web.md)
-
-
------
-
-**联系我：**
-
-![](https://cdn.jsdelivr.net/gh/unscientific/cdn/images/callme.png)
-
-
+> * [加入写作训练营](write-camp/README.md)
 
 -----
+
+
+
+
+
 
 
 
